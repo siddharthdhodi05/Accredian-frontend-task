@@ -79,11 +79,6 @@ Follow the CLI steps to deploy the project.
 
 ---
 
-## 📷 UI Preview
-![UI Screenshot](https://via.placeholder.com/600x300?text=RefPay+UI) *(Replace with actual screenshot)*
-
----
-
 ## 🤝 Contributing
 Feel free to open issues and submit PRs! 💡👨‍💻
 
